@@ -89,9 +89,9 @@ Here are a few projects demonstrating my skills and growth as a developer. Each 
 
 I’m actively seeking junior software engineering roles and open to collaboration or mentorship opportunities.
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio Website: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: [snorwoodmyrant@gmail.com](mailto:your.snorwoodmyrant@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/sherria-myrant-a62991359](www.linkedin.com/in/sherria-myrant-a62991359)
+- 🌐 Portfolio Website: [https://github.com/snorwoodmyrant/s-myrant-portfolio/edit/main/README.md](https://github.com/snorwoodmyrant/s-myrant-portfolio/edit/main/README.md)
 
 ---
 
